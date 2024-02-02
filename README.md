@@ -1,3 +1,3 @@
 # Phonepe-Pulse Data-Visualization-Project -> DONE BY REKHA
 Phonepe-Pulse-Data-Visualization-and-Exploration
-The PhonePe Pulse website showcases more than 2000+ Crore transactions by consumers on an interactive map of India. With over 45% market share, PhonePe's data is representative of the country's digital payment habits. The insights on the website and in the report have been drawn from two key sources - the entirety of PhonePe's transaction data combined with merchant and customer interviews.
+PhonePe, a popular digital payment platform in India, has millions of users relying on its simplicity, user-friendly interface, and fast processing. The app has won awards for its innovative features. A web app has been created to analyze PhonePe transactions and users based on years, quarters, states, and types, providing Geographical and Geo visualization output based on specific requirements.
